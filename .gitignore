@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+
+# Downloaded models
+*.onnx
+lbfmodel.yaml
+
+# Personal photos and generated output
+AlecDynamic/
+crops/
+*.mp4
+.DS_Store
